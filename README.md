@@ -6,4 +6,4 @@ Neural Network , SVM ,Logistic regressing and DEcision TRee algorithms for class
 
 Optimization algorithms for Logistic regression used is Gradient descent , For SVM - SMO algorithm.
 
-
+Training Dataset is in dataset.txt file and contains 5 attributes and a corresponding classification class for that example. 
